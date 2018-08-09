@@ -1,6 +1,6 @@
 spring:
   application:
-    name: boot_eureka_client
+    name: boot-eureka-client
 server:
   port: 0
 eureka:
