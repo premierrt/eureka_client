@@ -1,0 +1,3 @@
+rejestruje sie w eurece
+jest wywolywany przez inne uslugi przez feign klienta - przez eureka_konsumer
+https://www.baeldung.com/spring-cloud-netflix-eureka
